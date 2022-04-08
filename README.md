@@ -16,3 +16,13 @@ $ npm install
 # Ejecuta el servidor local
 $ npm run start
 ```
+
+# Ver la forma de hacer el Context para una Clase y para una Función
+Hay que hacer un checkout
+```bash
+# Cambia al commit donde estaba el codigo
+$ git checkout cafd02b
+
+# Para volver a la rama principal
+$ git switch -
+```
