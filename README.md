@@ -21,8 +21,8 @@ $ npm run start
 Hay que hacer un checkout
 ```bash
 # Cambia al commit donde estaba el codigo
-$ git checkout cafd02b
+$ git checkout context-with-classComponent
 
 # Para volver a la rama principal
-$ git switch -
+$ git checkout main
 ```
